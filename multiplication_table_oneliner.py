@@ -1,0 +1,1 @@
+import sys; print("\n".join([f"{i: >2} * {int(sys.argv[1])} = {i * int(sys.argv[1]): >2}" for i in range(1, 11)]))
