@@ -7,7 +7,7 @@
 #include <queue>
 #include <map>
 #include <unordered_map>
-#include <bits/stdc++.h>
+#include <cstring>
 typedef long long ll;
 using namespace std;
 
