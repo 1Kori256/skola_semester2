@@ -1,0 +1,7 @@
+/build/
+/build-*/
+/a.out
+*.exe
+__pycache__/
+*.py[cod]
+.DS_Store

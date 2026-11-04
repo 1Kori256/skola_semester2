@@ -7,7 +7,8 @@
 #include <queue>
 #include <map>
 #include <stdio.h>
-#include <bits/stdc++.h>
+#include <cmath>
+#include <cstring>
 #include <fstream>
 typedef long long ll;
 using namespace std;

@@ -1,5 +1,4 @@
 import sys, math
-sys.stdin = open("00/INPUT")
 
 for line in sys.stdin:
     n = int(line)
